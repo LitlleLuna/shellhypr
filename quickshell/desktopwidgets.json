@@ -1,0 +1,14 @@
+{
+    "on": {
+        "clock": true,
+        "music": true,
+        "quote": true,
+        "sysmon": true
+    },
+    "positions": {
+        "sysmon": {
+            "x": 0.9894839131773399,
+            "y": 0.8819616751609443
+        }
+    }
+}
